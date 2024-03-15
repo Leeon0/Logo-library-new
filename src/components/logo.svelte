@@ -1,60 +1,49 @@
 <svg
-  width="30"
-  name="SVGL Logo"
-  viewBox="0 0 512 512"
-  fill="none"
+  width="64px"
+  height="64px"
+  viewBox="0 0 54.15 54.15"
   xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  class=""
-  ><rect
-    id="r4"
-    width="512"
-    height="512"
-    x="0"
-    y="0"
-    rx="128"
-    fill="#222"
-    stroke="#FFFFFF"
-    stroke-width="0"
-    stroke-opacity="100%"
-    paint-order="stroke"
-  ></rect><rect
-    width="512"
-    height="512"
-    x="0"
-    y="0"
-    fill="url(#r6)"
-    rx="128"
-    style="mix-blend-mode: overlay;"
-  ></rect><clipPath id="clip"><use xlink:href="#r4"></use></clipPath><defs
-    ><linearGradient
-      id="r5"
-      gradientUnits="userSpaceOnUse"
-      gradientTransform="rotate(135)"
-      style="transform-origin: center center;"
-      ><stop stop-color="#222"></stop><stop offset="1" stop-color="#222222"></stop></linearGradient
-    ><radialGradient
-      id="r6"
-      cx="0"
-      cy="0"
-      r="1"
-      gradientUnits="userSpaceOnUse"
-      gradientTransform="translate(256) rotate(90) scale(512)"
-      ><stop stop-color="white"></stop><stop offset="1" stop-color="white" stop-opacity="0"
-      ></stop></radialGradient
-    ></defs
-  ><svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="310"
-    height="310"
-    fill="#e8e8e8"
-    viewBox="0 0 256 256"
-    x="101"
-    y="101"
-    alignment-baseline="middle"
-    style="color: rgb(255, 255, 255);"
-    ><path
-      d="M168,32H88A56.06,56.06,0,0,0,32,88v80a56.06,56.06,0,0,0,56,56h48a8.07,8.07,0,0,0,2.53-.41c26.23-8.75,76.31-58.83,85.06-85.06A8.07,8.07,0,0,0,224,136V88A56.06,56.06,0,0,0,168,32ZM48,168V88A40,40,0,0,1,88,48h80a40,40,0,0,1,40,40v40H184a56.06,56.06,0,0,0-56,56v24H88A40,40,0,0,1,48,168Zm96,35.14V184a40,40,0,0,1,40-40h19.14C191,163.5,163.5,191,144,203.14Z"
-    ></path></svg
-  ></svg
+  fill="#000000"
 >
+  <g id="SVGRepo_bgCarrier" stroke-width="0" />
+
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" />
+
+  <g id="SVGRepo_iconCarrier">
+    <g id="Group_9" data-name="Group 9" transform="translate(-577.811 -505.87)">
+      <circle
+        id="Ellipse_3"
+        data-name="Ellipse 3"
+        cx="25.075"
+        cy="25.075"
+        r="25.075"
+        transform="translate(579.811 507.87)"
+        fill="#69008f"
+        stroke="#231f20"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="4"
+      />
+      <path
+        id="Path_27"
+        data-name="Path 27"
+        d="M584.486,553.346,598.4,526.461l26.884-13.917L611.37,539.429Z"
+        fill="#ffffff"
+        stroke="#231f20"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="4"
+      />
+      <path
+        id="Path_28"
+        data-name="Path 28"
+        d="M608.254,532.945a3.368,3.368,0,1,1-3.368-3.367A3.368,3.368,0,0,1,608.254,532.945Z"
+        fill="#ffffff"
+        stroke="#231f20"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="4"
+      />
+    </g>
+  </g>
+</svg>
