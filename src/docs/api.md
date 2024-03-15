@@ -126,8 +126,6 @@ export interface iSVG {
 ]
 ```
 
-The list of categories is available [here](https://github.com/pheralb/svgl/blob/main/src/types/categories.ts) (except for the _all_ category).
-
 </Endpoint>
 
 <Endpoint title="Get only categories" method="GET" description="Returns only categories with the number of SVGs in each category.">
