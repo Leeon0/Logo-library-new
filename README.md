@@ -35,6 +35,7 @@ npm install -g pnpm
 # and install dependencies:
 pnpm install
 
+# run
 pnpm run dev
 ```
 
